@@ -1,0 +1,14 @@
+{
+  "PLA-ZH-882": {
+    "type": "Handheld Thermal Imager",
+    "classification": "Reconnaissance / Optics",
+    "description": "Short-to-medium range thermal imaging device often issued to PLA border defense units for night operations.",
+    "common_uses": ["Night surveillance", "Border patrols", "Target acquisition"]
+  },
+  "PLA-DK-901": {
+    "type": "UAV Control Link",
+    "classification": "Communications",
+    "description": "Tactical drone control datalink module.",
+    "common_uses": ["Drone operation", "Signal relay"]
+  }
+}

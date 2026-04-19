@@ -1,0 +1,25 @@
+# Sentinel-LAC Intelligence Wiki — additional requirements
+# Install: pip install -r requirements-intel.txt --break-system-packages
+
+# Streamlit dashboard
+streamlit>=1.35.0
+streamlit-folium>=0.20.0
+
+# Map rendering
+folium>=0.16.0
+
+# Charts and network graph
+plotly>=5.22.0
+networkx>=3.3.0
+
+# Entity resolution fuzzy matching
+thefuzz>=0.22.0
+python-levenshtein>=0.25.0
+
+# XML parsing for docx image extraction
+lxml>=5.0.0
+
+# Already in requirements.txt — confirming minimum versions:
+# python-docx>=1.1.0
+# pyyaml>=6.0
+# httpx>=0.27.0

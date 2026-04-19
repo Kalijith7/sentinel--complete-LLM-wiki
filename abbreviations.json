@@ -1,0 +1,108 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "description": "Sentinel-LAC Intelligence Wiki — Abbreviation Resolution Map",
+    "last_updated": "2025-05-16",
+    "note": "All entries are case-insensitive. Add new abbreviations as they appear in corpus."
+  },
+
+  "military_ranks": {
+    "Capt":    "Captain",
+    "Lt":      "Lieutenant",
+    "Lt Col":  "Lieutenant Colonel",
+    "Col":     "Colonel",
+    "Brig":    "Brigadier",
+    "Maj":     "Major",
+    "Maj Gen": "Major General",
+    "Sub":     "Subedar",
+    "Nb Sub":  "Naib Subedar",
+    "Sub Maj": "Subedar Major",
+    "JCO":     "Junior Commissioned Officer",
+    "NCO":     "Non-Commissioned Officer",
+    "OR":      "Other Ranks",
+    "Hav":     "Havildar",
+    "Sep":     "Sepoy"
+  },
+
+  "indian_army_units": {
+    "JAK LI":    "Jammu and Kashmir Light Infantry",
+    "GR":        "Gorkha Rifles",
+    "GR det":    "Gorkha Rifles detachment",
+    "Madras Regt": "Madras Regiment",
+    "Punjab Regt": "Punjab Regiment",
+    "Maratha LI":  "Maratha Light Infantry",
+    "AR":          "Assam Rifles",
+    "ITBP":        "Indo-Tibetan Border Police",
+    "BRO":         "Border Roads Organisation",
+    "FPB":         "Forward Patrol Base",
+    "OP":          "Observation Post",
+    "Coy HQ":      "Company Headquarters",
+    "Bn HQ":       "Battalion Headquarters",
+    "Sector HQ":   "Sector Headquarters"
+  },
+
+  "pla_units": {
+    "PLA":    "People's Liberation Army",
+    "PLAA":   "PLA Army",
+    "PLAAF":  "PLA Air Force",
+    "PLAN":   "PLA Navy",
+    "PLARF":  "PLA Rocket Force",
+    "SSF":    "PLA Strategic Support Force",
+    "76 GA":  "PLA 76th Group Army",
+    "77 GA":  "PLA 77th Group Army",
+    "78 GA":  "PLA 78th Group Army",
+    "WTC":    "PLA Western Theatre Command",
+    "Tibet MD": "PLA Tibet Military District",
+    "Xinjiang MD": "PLA Xinjiang Military District"
+  },
+
+  "tactical_terms": {
+    "TTS":     "Tell-Tale Signs",
+    "LAC":     "Line of Actual Control",
+    "MGRS":    "Military Grid Reference System",
+    "DTG":     "Date-Time Group",
+    "INTREP":  "Intelligence Report",
+    "SITREP":  "Situation Report",
+    "HUMINT":  "Human Intelligence",
+    "IMINT":   "Imagery Intelligence",
+    "SIGINT":  "Signals Intelligence",
+    "UAV":     "Unmanned Aerial Vehicle",
+    "UAS":     "Unmanned Aerial System",
+    "ISR":     "Intelligence Surveillance Reconnaissance",
+    "AAR":     "After Action Report",
+    "ROE":     "Rules of Engagement",
+    "IB":      "India-Bhutan",
+    "IC":      "India-China",
+    "Nullah":  "Stream or dry ravine (Himalayan terrain feature)"
+  },
+
+  "patrol_types": {
+    "ADP":     "Area Domination Patrol",
+    "SADP":    "Surveillance cum Area Domination Patrol",
+    "NAP":     "Night Ambush Patrol",
+    "ROP":     "Road Opening Patrol",
+    "QRP":     "Quick Reaction Patrol",
+    "NDQRP":   "Night Domination cum Quick Reaction Patrol",
+    "SRP":     "Surveillance cum Riverine Patrol"
+  },
+
+  "location_terms": {
+    "La":      "Mountain Pass (Tibetan/Himalayan)",
+    "Chu":     "River or stream",
+    "Nallah":  "Seasonal stream bed",
+    "Ridge":   "High ground feature",
+    "OP Line": "Observation Post Line",
+    "FPL":     "Forward Post Line"
+  },
+
+  "tts_categories": {
+    "Boot prints":      "Footwear impressions indicating personnel movement",
+    "Tyre tracks":      "Vehicle tyre impressions",
+    "Camouflage":       "Cut vegetation or netting for concealment",
+    "Fire ash":         "Remnants of cooking or warming fires",
+    "Stores debris":    "Discarded food packaging, bottles, cigarettes",
+    "Markers":          "Stone cairns or boundary indicators",
+    "Drone":            "UAV activity indicators (audio/visual)",
+    "Equipment":        "Left-behind military equipment"
+  }
+}
